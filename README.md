@@ -24,12 +24,11 @@ My goal is to create innovative solutions in the defense industry, establish a s
 <!-- Contact Links Section with Pink and White Style -->
 <h3 align="center" style="color: #FF69B4;">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:aydoganelif1903@gmail.com" style="color: #FF69B4; font-weight: bold; text-decoration: none;">📧 Email: aydoganelif1903@gmail.com</a>
-  <br><br>
-  <a href="https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==" style="color: #FF69B4; font-weight: bold; text-decoration: none;">📸 Instagram</a>
-  <br><br>
+  <a href="mailto:aydoganelif1903@gmail.com" style="color: #FF69B4; font-weight: bold; text-decoration: none; margin-right: 20px;">📧 Email</a>
+  <a href="https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==" style="color: #FF69B4; font-weight: bold; text-decoration: none; margin-right: 20px;">📸 Instagram</a>
   <a href="https://www.linkedin.com/in/elif-aydogan-b3819131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="color: #FF69B4; font-weight: bold; text-decoration: none;">🔗 LinkedIn</a>
 </p>
 
 </div>
+
 
