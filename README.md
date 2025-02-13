@@ -1,48 +1,35 @@
-<div style="background-color: #FFFFFF; color: #FF69B4; padding: 40px; font-family: 'Arial', sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #ffffff; color: #FF69B4; padding: 20px; font-family: Arial, sans-serif; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: left;">
 
-<!-- Introduction -->
-<h1 align="center" style="font-size: 2em; font-weight: bold; color: #FF69B4;">
-  Hello! I'm Elif Aydoğan 👋
-</h1>
-<p align="center" style="font-size: 1.1em; color: #FF69B4;">
-  I'm an Electronics and Communication Technology student with a strong passion for technology and innovation. 🚀
-</p>
+  <!-- Introduction -->
+  <h1 style="font-size: 1.8em; font-weight: bold;">
+    Hello! I'm Elif Aydoğan 👋
+  </h1>
+  <p style="font-size: 1em;">
+    I'm an Electronics and Communication Technology student with a passion for tech and innovation.
+  </p>
 
-<!-- About Me Section -->
-<h3 align="center" style="color: #FF69B4; font-size: 1.3em;">👩‍💻 About Me</h3>
-<p align="center" style="font-size: 1.1em; color: #333;">
-  I am deeply passionate about developing cutting-edge technologies in the fields of UAV and IoT. As a student, I aim to harness my skills in electronics and communication to create innovative solutions for global projects. My journey is driven by a goal to contribute to the defense industry, particularly in the development of UAVs, and to bring these technological advancements to a global audience. 🌍
-</p>
+  <!-- About Me Section -->
+  <h3 style="font-size: 1.2em;">👩‍💻 About Me</h3>
+  <p style="font-size: 1em; max-width: 600px;">
+    I am passionate about developing cutting-edge technologies in UAV and IoT. I aim to harness my skills in electronics and communication to create innovative solutions for global challenges, particularly in the defense industry.
+  </p>
 
-<!-- Future Goals Section -->
-<h3 align="center" style="color: #FF69B4; font-size: 1.3em;">🎯 My Future Goals</h3>
-<p align="center" style="font-size: 1.1em; color: #333;">
-  In the future, I aim to push the limits of technology in the defense and aerospace industries. My primary goal is to contribute to the development of innovative aerial vehicles (UAVs) that can reshape the way we approach technology in the defense sector. Through my work, I strive to create solutions that not only meet current needs but also anticipate future challenges in technology and defense. 🚁💡
-</p>
+  <!-- Future Goals Section -->
+  <h3 style="font-size: 1.2em;">🎯 My Future Goals</h3>
+  <p style="font-size: 1em; max-width: 600px;">
+    I strive to push the boundaries of technology in defense and aerospace by contributing to innovative UAV projects that reshape the future of defense technology.
+  </p>
 
-<!-- Contact Section with Links -->
-<h3 align="center" style="color: #FF69B4; font-size: 1.3em; margin-top: 30px;">💬 Let's Connect 💬</h3>
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/elif-aydogan-b3819131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
-     style="text-decoration: none; background-color: #FF69B4; color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-weight: bold;">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elif-aydogan-b3819131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==" 
-     style="text-decoration: none; background-color: #FF69B4; color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-weight: bold;">
-    [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==)
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:aydoganelif1903@gmail.com" 
-     style="text-decoration: none; background-color: #FF69B4; color: white; padding: 12px 24px; border-radius: 25px; margin: 5px; font-weight: bold;">
-    [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:aydoganelif1903@gmail.com)
-  </a>
-</p>
+  <!-- Connect with Me Section -->
+  <h3 style="font-size: 1.2em; margin-top: 20px;">💬 Let's Connect</h3>
+  <p>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-aydogan-b3819131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+    [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-%23FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==)
+    [![Email](https://img.shields.io/badge/Email-Contact%20Me-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydoganelif1903@gmail.com)
+  </p>
 
 </div>
+
 
 
 
