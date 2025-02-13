@@ -7,6 +7,9 @@
   <p style="font-size: 1em;">
     I'm an Electronics and Communication Technology student with a passion for tech and innovation.
   </p>
+  <p style="font-size: 1em; margin: 5px 0;">
+    📧 Email: <a href="mailto:aydoganelif1903@gmail.com" style="color: #FF69B4; text-decoration: none;">aydoganelif1903@gmail.com</a>
+  </p>
 
   <!-- About Me Section -->
   <h3 style="font-size: 1.2em;">👩‍💻 About Me</h3>
@@ -23,9 +26,6 @@
   <!-- Connect with Me Section -->
   <h3 style="font-size: 1.2em; margin-top: 20px;">💬 Let's Connect</h3>
   <p style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <a href="mailto:aydoganelif1903@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==">
       <img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
