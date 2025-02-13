@@ -22,15 +22,7 @@
 
   <!-- Connect with Me Section -->
   <h3 style="font-size: 1.2em; margin-top: 20px;">💬 Let's Connect</h3>
-  <p>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-aydogan-b3819131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-    [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-%23FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elfaydoans?igsh=MWVycGw2cXJ1eTlkYw==)
-    [![Email](https://img.shields.io/badge/Email-Contact%20Me-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydoganelif1903@gmail.com)
-  </p>
-
-</div>
-
-
+  <p style="display: fl
 
 
 
